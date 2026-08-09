@@ -217,4 +217,4 @@ $ git commit -m "criar algo bonito"
 
 feito com código • sonhos • cafeína • moranguinhos
 
-<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9a,25:ff2f92,50:4a003f,75:24002f,100:120018&height=130&section=footer"/> </div>
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9a,25:ff2f92,50:4a003f,75:24002f,100:120018&height=130&section=footer"/> </div> 
