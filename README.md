@@ -5,15 +5,7 @@
 <img src="https://img.shields.io/github/followers/nanabanana-1?style=for-the-badge&color=ff4f9a&labelColor=180018&logo=github&label=SEGUIDORES"/> <img src="https://img.shields.io/github/stars/nanabanana-1?style=for-the-badge&color=ff85b3&labelColor=180018&logo=github&label=ESTRELAS"/> </div>
 🍓 VIVIKINHA_SYSTEM.exe
 ╭─────────────────────────────────────────────────────────────────────╮
-│                                                                     │
-│       ███╗   ██╗ █████╗ ███╗   ██╗ █████╗                         │
-│       ████╗  ██║██╔══██╗████╗  ██║██╔══██╗                        │
-│       ██╔██╗ ██║███████║██╔██╗ ██║███████║                       │
-│       ██║╚██╗██║██╔══██║██║╚██╗██║██╔══██║                       │
-│       ██║ ╚████║██║  ██║██║ ╚████║██║  ██║                        │
-│       ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝                        │
-│                                                                     │
-│             🍓 INTERFACE 🍓                 │
+│             🍓 INTERFACE 🍓                                          │
 │                                                                     │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                     │
