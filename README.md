@@ -8,6 +8,7 @@
 
 <img src="https://img.shields.io/github/followers/nanabanana-1?style=for-the-badge&color=ff4f9a&labelColor=180018&logo=github&label=SEGUIDORES"/> <img src="https://img.shields.io/github/stars/nanabanana-1?style=for-the-badge&color=ff85b3&labelColor=180018&logo=github&label=ESTRELAS"/> </div>
 🍓 VIVIKINHA_SYSTEM.exe
+```
 ╭─────────────────────────────────────────────────────────────────────╮
 │             🍓 INTERFACE 🍓                                          │
 │                                                                     │
@@ -21,6 +22,7 @@
 │  HUMOR        : ♡ movido a moranguinhos ♡                           │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 ♡ bem-vindo ao meu cantinho da internet ♡
@@ -43,7 +45,7 @@ Meu objetivo não é simplesmente escrever código.
 identidade:
   usuário: "nanabanana-1"
   apelido: "Vicky"
-  tema: "Y2K Cyberpunk"
+  tema: "Y2K"
   localização: "🌎 Terra"
 
 interesses:
@@ -61,7 +63,7 @@ energia: "🍓🍓🍓🍓🍓"
 </td> <td width="45%" align="center"> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280"/>
 
 <br><br>
-
+```
 ╭──────────────────────╮
 │  ♡ NÚCLEO ♡  │
 ├──────────────────────┤
@@ -73,7 +75,7 @@ energia: "🍓🍓🍓🍓🍓"
 │  morangos    ∞       │
 │                      │
 ╰──────────────────────╯
-
+```
 </td> </tr> </table>
 > PILHA_TECNOLÓGICA
 <div align="center">
@@ -131,7 +133,7 @@ Um blog com a minha cara inspirado em mim mesma,que vou atualizar com base meus 
 
 Um projeto de to do list fofo e básico. 
 
-<br> <img src="https://img.shields.io/badge/IA-ff4f9a?style=flat-square"/> <img src="https://img.shields.io/badge/Python-ff85b3?style=flat-square"/> <img src="https://img.shields.io/badge/API-ff2f92?style=flat-square"/>
+<br> <img src="https://img.shields.io/badge/js-ff4f9a?style=flat-square"/> <img src="https://img.shields.io/badge/HTML-ff85b3?style=flat-square"/> <img src="https://img.shields.io/badge/css-ff2f92?style=flat-square"/>
 
 <br><br>
 
@@ -143,9 +145,9 @@ Um projeto de to do list fofo e básico.
 
 Um sistema utilizando como base os conhecimentos de POO (programação orientada a objetos) adquiridos em aula e com auxílio de IA.
 
-<br> <img src="https://img.shields.io/badge/Python-ff4f9a?style=flat-square"/> 
-<img src="https://img.shields.io/badge/ML-ff85b3?style=flat-square"/> 
-<img src="https://img.shields.io/badge/IA-ff2f92?style=flat-square"/>
+<br>
+<img src="https://img.shields.io/badge/IA-ff85b3?style=flat-square"/> 
+<img src="https://img.shields.io/badge/java-ff2f92?style=flat-square"/>
 
 <br><br>
 
@@ -161,28 +163,30 @@ Um sisteminha que registra a evolução de treinos de uma dupla e incentiva a n�
 
 <a href="https://github.com/nanabanana-1/meandyou"> <img src="https://img.shields.io/badge/VER_PROJETO-ff4f9a?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> </table> </div>
 > MISSÕES_ATUAIS
+```
 ╭──────────────────────────────────────────────────────────────────╮
 │                    🍓 CENTRAL DE MISSÕES 🍓                      │
 ├──────────────────────────────────────────────────────────────────┤
 │                                                                  │
 │  [01] ████████████████████ 100%  Aprender algo novo              │
 │                                                                  │
-│  [02] █████████████████░░░  85%  Criar projetos vibes             │
+│  [02] █████████████████░░░  85%  Criar projetos vibes            │
 │                                                                  │
-│  [03] ████████████████░░░░  80%  Melhorar arquitetura de software │
+│  [03] ████████████████░░░░  80%  Melhorar arquitetura de software│
 │                                                                  │
-│  [04] ██████████████░░░░░░  70%  Explorar UI/UX          │
+│  [04] ██████████████░░░░░░  70%  Explorar UI/UX                  │
 │                                                                  │
-│  [05] ████████████░░░░░░░░  60%  Contribuir para Open Source      │
+│  [05] ████████████░░░░░░░░  60%  Contribuir para Open Source     │
 │                                                                  │
-│  [06] ██████████░░░░░░░░░░  50%  Criar algo inesquecível          │
+│  [06] ██████████░░░░░░░░░░  50%  Criar algo inesquecível         │
 │                                                                  │
 ├──────────────────────────────────────────────────────────────────┤
 │                                                                  │
-│  PRÓXIMO OBJETIVO                                                 │
-│  └─> transformar imaginação em software.exe                     │
+│  PRÓXIMO OBJETIVO                                                │
+│  └─> transformar imaginação em software.exe                      │
 │                                                                  │
 ╰──────────────────────────────────────────────────────────────────╯
+```
 
 > TERMINAL
 ╭─[nanabanana-1@github]─[~/futuro]
