@@ -218,8 +218,7 @@ $ git commit -m "criar algo bonito"
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nanabanana-1&theme=radical&hide_border=true&background=0D0610&stroke=FF4F9A&ring=FF2F92&fire=FF85B3&currStreakLabel=FF4F9A&sideLabels=FFD6E7&dates=FF85B3"/> </div>
 > MATRIZ_DE_ATIVIDADE
 <div align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nanabanana-1&bg_color=0D0610&color=FF85B3&line=FF2F92&point=FF4F9A&area=true&hide_border=true&custom_title=🍓%20MATRIZ%20DE%20ATIVIDADE%20DA%20NANA%20🍓"/> </div>
-> SALA_DE_TROFÉUS
-<div align="center"> <img width="95%" src="https://github-profile-trophy.vercel.app/?username=nanabanana-1&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/> </div>
+
 > JARDIM_DE_CONTRIBUIÇÕES
 <div align="center">
 🍓 CULTIVANDO CÓDIGO, UM COMMIT DE CADA VEZ 🍓
@@ -229,20 +228,25 @@ $ git commit -m "criar algo bonito"
 
 </div>
 > REDES_SOCIAIS
-<div align="center"> <a href="https://github.com/nanabanana-1"> <img src="https://img.shields.io/badge/GITHUB-180018?style=for-the-badge&logo=github&logoColor=FF4F9A"/> </a> <a href="https://www.linkedin.com/in/SEU_LINKEDIN"> <img src="https://img.shields.io/badge/LINKEDIN-180018?style=for-the-badge&logo=linkedin&logoColor=FF85B3"/> </a> <a href="https://instagram.com/"> <img src="https://img.shields.io/badge/INSTAGRAM-180018?style=for-the-badge&logo=instagram&logoColor=FF2F92"/> </a> <a href="mailto:anavuh134@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-180018?style=for-the-badge&logo=gmail&logoColor=FF4F9A"/> </a> </div>
+<div align="center"> <a href="https://github.com/nanabanana-1"> <img src="https://img.shields.io/badge/GITHUB-180018?style=for-the-badge&logo=github&logoColor=FF4F9A"/> </a> 
+<a href="https://www.linkedin.com/in/ana-vitoria-pinheiro"> <img src="https://img.shields.io/badge/LINKEDIN-180018?style=for-the-badge&logo=linkedin&logoColor=FF85B3"/> </a> 
+<a href="https://instagram.com/doiwannaknow.ww"> <img src="https://img.shields.io/badge/INSTAGRAM-180018?style=for-the-badge&logo=instagram&logoColor=FF2F92"/> </a> 
+<a href="mailto:anavuh134@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-180018?style=for-the-badge&logo=gmail&logoColor=FF4F9A"/> </a> </div>
+
 <div align="center"> <br>
+```
 ╭────────────────────────────────────────────────────────────╮
 │                                                            │
-│                  🍓 NANA.OS // 2077 🍓                     │
+│                  🍓 VICKY.OS // 2077 🍓                     │
 │                                                            │
 │             STATUS DO SISTEMA : ● ONLINE                   │
-│             STATUS DO CORAÇÃO: ♡ CHEIO                    │
+│             STATUS DO CORAÇÃO: ♡ CHEIO                     │
 │             MORANGUINHOS     : ∞                           │
 │                                                            │
 │       "criando pequenos pedaços do futuro."                │
 │                                                            │
 ╰────────────────────────────────────────────────────────────╯
-
+```
 <br>
 ♡ obrigada por visitar meu jardim digital ♡
 
