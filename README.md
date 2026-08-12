@@ -1,4 +1,8 @@
-<div align="center"> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- 🍓 VICKY SYSTEM // ONLINE 🍓 --> <!-- ═══════════════════════════════════════════════════════════════ --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120018,25:24002f,50:4a003f,75:ff2f92,100:ff6b9a&height=230&section=header&text=VICKY&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🍓%20SISTEMA%20Y2K%20%2F%2F%20IA%20%2F%2F%20CÓDIGO%20%2F%2F%20SONHOS%20🍓&descAlignY=60&descSize=17&descColor=ffd6e7"/> <br> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2200&pause=700&color=FF5FA2&center=true&vCenter=true&width=850&lines=%3E+INICIANDO+VICKY.OS...;%3E+INICIALIZANDO+NÚCLEO+DE+MORANGO...;%3E+CONECTANDO+À+REDE+CYBER...;%3E+MÓDULO+DE+IA+%5BONLINE%5D;%3E+INTERFACE+Y2K+%5BONLINE%5D;%3E+STATUS+DO+SISTEMA%3A+100%25+MORANGUINHO+%F0%9F%8D%93;%3E+BEM-VINDO+AO+MEU+MUNDO+DIGITAL." alt="Animação de Digitação"/> <br> <img src="https://img.shields.io/badge/♡_SISTEMA-ONLINE-ff4f9a?style=for-the-badge&labelColor=180018"/> <img src="https://img.shields.io/badge/🍓_NÚCLEO-DE%20MORANGO-ff6b9a?style=for-the-badge&labelColor=180018"/> <img src="https://img.shields.io/badge/Y2K-2077-ff2f92?style=for-the-badge&labelColor=180018"/> <img src="https://komarev.com/ghpvc/?username=nanabanana-1&style=for-the-badge&color=ff4f9a&label=VISITANTES"/>
+<div align="center"> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- 🍓 VICKY SYSTEM // ONLINE 🍓 --> <!-- ═══════════════════════════════════════════════════════════════ --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120018,25:24002f,50:4a003f,75:ff2f92,100:ff6b9a&height=230&section=header&text=VICKY&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🍓%20SISTEMA%20Y2K%20%2F%2F%20IA%20%2F%2F%20CÓDIGO%20%2F%2F%20SONHOS%20🍓&descAlignY=60&descSize=17&descColor=ffd6e7"/> <br> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2200&pause=700&color=FF5FA2&center=true&vCenter=true&width=850&lines=%3E+INICIANDO+VICKY.OS...;%3E+INICIALIZANDO+NÚCLEO+DE+MORANGO...;%3E+CONECTANDO+À+REDE+CYBER...;%3E+MÓDULO+DE+IA+%5BONLINE%5D;%3E+INTERFACE+Y2K+%5BONLINE%5D;%3E+STATUS+DO+SISTEMA%3A+100%25+MORANGUINHO+%F0%9F%8D%93;%3E+BEM-VINDO+AO+MEU+MUNDO+DIGITAL." alt="Animação de Digitação"/> <br>
+  
+  <img src="https://img.shields.io/badge/♡_SISTEMA-ONLINE-ff4f9a?style=for-the-badge&labelColor=180018"/> 
+  <img src="https://img.shields.io/badge/🍓_NÚCLEO-DE%20MORANGO-ff6b9a?style=for-the-badge&labelColor=180018"/> <img src="https://img.shields.io/badge/Y2K-2077-ff2f92?style=for-the-badge&labelColor=180018"> 
+  <img src="https://komarev.com/ghpvc/?username=nanabanana-1&style=for-the-badge&color=ff4f9a&label=VISITANTES"/>
 
 <br><br>
 
@@ -74,26 +78,37 @@ energia: "🍓🍓🍓🍓🍓"
 > PILHA_TECNOLÓGICA
 <div align="center">
 🍓 LINGUAGENS
-<img src="https://skillicons.dev/icons?i=python,js,java,go&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,js,java&theme=dark"/>
 
 <br><br>
 
 💗 FRONT-END
-<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark"/>
 
 <br><br>
 
 🧠 BACK-END
-<img src="https://skillicons.dev/icons?i=python,java,js,vite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark"/>
 
 <br><br>
 
 ☁️ BANCO DE DADOS / CLOUD
-<img src="https://skillicons.dev/icons?i=aws,mysql,vite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,mysql&theme=dark"/>
 </div>
 
 CAIXA_DE_FERRAMENTAS
-<div align="center"> <img src="https://img.shields.io/badge/Git-ff4f9a?style=for-the-badge&logo=git&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/GitHub-ff6b9a?style=for-the-badge&logo=github&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/VS_Code-ff4f9a?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/Figma-ff2f92?style=for-the-badge&logo=figma&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/Linux-ff85b3?style=for-the-badge&logo=linux&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/Postman-ff4f9a?style=for-the-badge&logo=postman&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/Notion-ff6b9a?style=for-the-badge&logo=notion&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/Docker-ff2f92?style=for-the-badge&logo=docker&logoColor=white&labelColor=180018"/> </div>
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Git-ff4f9a?style=for-the-badge&logo=git&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/GitHub-ff6b9a?style=for-the-badge&logo=github&logoColor=white&labelColor=180018"/>
+  
+  <img src="https://img.shields.io/badge/VS_Code-ff4f9a?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=180018"/>
+  <img src="https://img.shields.io/badge/Figma-ff2f92?style=for-the-badge&logo=figma&logoColor=white&labelColor=180018"/> 
+  <img src="https://img.shields.io/badge/Linux-ff85b3?style=for-the-badge&logo=linux&logoColor=white&labelColor=180018"/> 
+  <img src="https://img.shields.io/badge/Postman-ff4f9a?style=for-the-badge&logo=postman&logoColor=white&labelColor=180018"/> 
+  <img src="https://img.shields.io/badge/Notion-ff6b9a?style=for-the-badge&logo=notion&logoColor=white&labelColor=180018"/> 
+  <img src="https://img.shields.io/badge/Docker-ff2f92?style=for-the-badge&logo=docker&logoColor=white&labelColor=180018"/> 
+  
+</div>
 
 > PROJETOS_EM_DESTAQUE
 
@@ -103,11 +118,14 @@ CAIXA_DE_FERRAMENTAS
 
 Um blog com a minha cara inspirado em mim mesma,que vou atualizar com base meus conhecimentos irão evoluindo.
 
-<br> <img src="https://img.shields.io/badge/React-ff4f9a?style=flat-square"/> <img src="https://img.shields.io/badge/TypeScript-ff85b3?style=flat-square"/> <img src="https://img.shields.io/badge/UI-ff2f92?style=flat-square"/>
+<br> <img src="https://img.shields.io/badge/React-ff4f9a?style=flat-square"/> 
+<img src="https://img.shields.io/badge/TypeScript-ff85b3?style=flat-square"/> 
+<img src="https://img.shields.io/badge/UI-ff2f92?style=flat-square"/>
 
 <br><br>
 
-<a <a href="https://github.com/nanabanana-1/projetinhomeu-blog"> <img src="https://img.shields.io/badge/VER_PROJETO-ff4f9a?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> <tr> <td width="50%" valign="top">
+<a href="https://github.com/nanabanana-1/projetinhomeu-blog"> 
+<img src="https://img.shields.io/badge/VER_PROJETO-ff4f9a?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> <tr> <td width="50%" valign="top">
 
 <h3>🍓 To do List (atividade) </h3>
 
@@ -118,21 +136,26 @@ Um projeto de to do list fofo e básico.
 <br><br>
 
 
-<a href="https://github.com/nanabanana-1/todolist"> <img src="https://img.shields.io/badge/VER_PROJETO-ff4f9a?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%" valign="top">
+<a href="https://github.com/nanabanana-1/todolist"> 
+<img src="https://img.shields.io/badge/VER_PROJETO-ff4f9a?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%" valign="top">
 
  <h3>🧠 Safe-School (Projeto de POO)</h3>
 
 Um sistema utilizando como base os conhecimentos de POO (programação orientada a objetos) adquiridos em aula e com auxílio de IA.
 
-<br> <img src="https://img.shields.io/badge/Python-ff4f9a?style=flat-square"/> <img src="https://img.shields.io/badge/ML-ff85b3?style=flat-square"/> <img src="https://img.shields.io/badge/IA-ff2f92?style=flat-square"/>
+<br> <img src="https://img.shields.io/badge/Python-ff4f9a?style=flat-square"/> 
+<img src="https://img.shields.io/badge/ML-ff85b3?style=flat-square"/> 
+<img src="https://img.shields.io/badge/IA-ff2f92?style=flat-square"/>
 
 <br><br>
 
-<a href="https://github.com/nanabanana-1/safe-school"> <img src="https://img.shields.io/badge/VER_PROJETO-ff4f9a?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%" valign="top"> <h3>🏋‍♂️ me and you</h3>
+<a href="https://github.com/nanabanana-1/safe-school"> <img src="https://img.shields.io/badge/VER_PROJETO-ff4f9a?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%" valign="top"> <h3> me and you</h3>
 
 Um sisteminha que registra a evolução de treinos de uma dupla e incentiva a não desistência.
 
-<br> <img src="https://img.shields.io/badge/Web-ff4f9a?style=flat-square"/> <img src="https://img.shields.io/badge/Código_Criativo-ff85b3?style=flat-square"/> <img src="https://img.shields.io/badge/Y2K-ff2f92?style=flat-square"/>
+<br> <img src="https://img.shields.io/badge/Web-ff4f9a?style=flat-square"/> 
+<img src="https://img.shields.io/badge/Código_Criativo-ff85b3?style=flat-square"/> 
+<img src="https://img.shields.io/badge/Y2K-ff2f92?style=flat-square"/>
 
 <br><br>
 
