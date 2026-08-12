@@ -1,9 +1,9 @@
-<div align="center"> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- 🍓 NANA SYSTEM // ONLINE 🍓 --> <!-- ═══════════════════════════════════════════════════════════════ --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120018,25:24002f,50:4a003f,75:ff2f92,100:ff6b9a&height=230&section=header&text=NANABANANA-1&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🍓%20SISTEMA%20Y2K%20%2F%2F%20IA%20%2F%2F%20CÓDIGO%20%2F%2F%20SONHOS%20🍓&descAlignY=60&descSize=17&descColor=ffd6e7"/> <br> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2200&pause=700&color=FF5FA2&center=true&vCenter=true&width=850&lines=%3E+INICIANDO+NANA.OS...;%3E+INICIALIZANDO+NÚCLEO+DE+MORANGO...;%3E+CONECTANDO+À+REDE+CYBER...;%3E+MÓDULO+DE+IA+%5BONLINE%5D;%3E+INTERFACE+Y2K+%5BONLINE%5D;%3E+STATUS+DO+SISTEMA%3A+100%25+MORANGUINHO+%F0%9F%8D%93;%3E+BEM-VINDO+AO+MEU+MUNDO+DIGITAL." alt="Animação de Digitação"/> <br> <img src="https://img.shields.io/badge/♡_SISTEMA-ONLINE-ff4f9a?style=for-the-badge&labelColor=180018"/> <img src="https://img.shields.io/badge/🍓_NÚCLEO-DE%20MORANGO-ff6b9a?style=for-the-badge&labelColor=180018"/> <img src="https://img.shields.io/badge/Y2K-2077-ff2f92?style=for-the-badge&labelColor=180018"/> <img src="https://komarev.com/ghpvc/?username=nanabanana-1&style=for-the-badge&color=ff4f9a&label=VISITANTES"/>
+<div align="center"> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- 🍓 VICKY SYSTEM // ONLINE 🍓 --> <!-- ═══════════════════════════════════════════════════════════════ --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120018,25:24002f,50:4a003f,75:ff2f92,100:ff6b9a&height=230&section=header&text=VICKY&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🍓%20SISTEMA%20Y2K%20%2F%2F%20IA%20%2F%2F%20CÓDIGO%20%2F%2F%20SONHOS%20🍓&descAlignY=60&descSize=17&descColor=ffd6e7"/> <br> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2200&pause=700&color=FF5FA2&center=true&vCenter=true&width=850&lines=%3E+INICIANDO+VICKY.OS...;%3E+INICIALIZANDO+NÚCLEO+DE+MORANGO...;%3E+CONECTANDO+À+REDE+CYBER...;%3E+MÓDULO+DE+IA+%5BONLINE%5D;%3E+INTERFACE+Y2K+%5BONLINE%5D;%3E+STATUS+DO+SISTEMA%3A+100%25+MORANGUINHO+%F0%9F%8D%93;%3E+BEM-VINDO+AO+MEU+MUNDO+DIGITAL." alt="Animação de Digitação"/> <br> <img src="https://img.shields.io/badge/♡_SISTEMA-ONLINE-ff4f9a?style=for-the-badge&labelColor=180018"/> <img src="https://img.shields.io/badge/🍓_NÚCLEO-DE%20MORANGO-ff6b9a?style=for-the-badge&labelColor=180018"/> <img src="https://img.shields.io/badge/Y2K-2077-ff2f92?style=for-the-badge&labelColor=180018"/> <img src="https://komarev.com/ghpvc/?username=nanabanana-1&style=for-the-badge&color=ff4f9a&label=VISITANTES"/>
 
 <br><br>
 
 <img src="https://img.shields.io/github/followers/nanabanana-1?style=for-the-badge&color=ff4f9a&labelColor=180018&logo=github&label=SEGUIDORES"/> <img src="https://img.shields.io/github/stars/nanabanana-1?style=for-the-badge&color=ff85b3&labelColor=180018&logo=github&label=ESTRELAS"/> </div>
-🍓 NANA_SYSTEM.exe
+🍓 VIVIKINHA_SYSTEM.exe
 ╭─────────────────────────────────────────────────────────────────────╮
 │                                                                     │
 │       ███╗   ██╗ █████╗ ███╗   ██╗ █████╗                         │
@@ -20,7 +20,7 @@
 │  USUÁRIO      : nanabanana-1                                      │
 │  MODO         : CRIATIVO                                          │
 │  ESTÉTICA     : Y2K / CYBERPUNK / FOFO                            │
-│  NÚCLEO       : IA + CÓDIGO + DESIGN                              │
+│  NÚCLEO       : CAFÉ + CÓDIGO + DESIGN                              │
 │  STATUS       : ● ONLINE                                          │
 │  HUMOR        : ♡ movido a moranguinhos ♡                         │
 │                                                                     │
@@ -34,11 +34,11 @@ criando coisas • aprendendo coisas • quebrando coisas • deixando tudo fofo
 </div>
 > SOBRE_MIM
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:180018,50:5b073f,100:ff4f9a&height=3&section=header" width="90%"/> </div> <table> <tr> <td width="55%" valign="top">
-🍓 Oi, eu sou a Nana!
+🍓 Oi, eu sou a Vitória!
 
-Sou uma desenvolvedora que ama combinar tecnologia, criatividade e estética.
+Sou uma estudante de TI, interessada na área  de desenvolvimento que ama combinar tecnologia, criatividade e estética.
 
-Gosto de explorar a interseção entre software, inteligência artificial, interfaces futuristas e design digital.
+Gosto de explorar a interseção entre software, backend e interfaces futuristas e design digital.
 
 Meu objetivo não é simplesmente escrever código.
 
@@ -46,17 +46,18 @@ Meu objetivo não é simplesmente escrever código.
 
 identidade:
   usuário: "nanabanana-1"
-  apelido: "Nana"
-  tema: "Y2K Strawberry Cyberpunk"
+  apelido: "Vicky"
+  tema: "Y2K Cyberpunk"
   localização: "🌎 Terra"
 
 interesses:
-  - Inteligência Artificial
-  - Desenvolvimento de Software
+  - Desenvolvimento de Sistemas
   - Tecnologia Criativa
   - UI / UX
   - Automação
-  - Interfaces Cyberpunk
+  - Interfaces vibes
+  - Programação
+  - e sem IA fazendo tudo cheio de bugs!
 
 modo_atual: "CRIANDO"
 energia: "🍓🍓🍓🍓🍓"
@@ -66,7 +67,7 @@ energia: "🍓🍓🍓🍓🍓"
 <br><br>
 
 ╭──────────────────────╮
-│  ♡ NÚCLEO IA NANA ♡  │
+│  ♡ NÚCLEO ♡  │
 ├──────────────────────┤
 │                      │
 │  curiosidade ████████│
@@ -81,23 +82,25 @@ energia: "🍓🍓🍓🍓🍓"
 > PILHA_TECNOLÓGICA
 <div align="center">
 🍓 LINGUAGENS
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,cs,go&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,js,java,go&theme=dark"/>
 
 <br><br>
 
 💗 FRONT-END
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind,vite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark"/>
 
 <br><br>
 
-🧠 BACK-END / IA
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,django,pytorch,tensorflow&theme=dark"/>
+🧠 BACK-END
+<img src="https://skillicons.dev/icons?i=python,java,js,vite&theme=dark"/>
 
 <br><br>
 
-☁️ BANCO DE DADOS / CLOUD / DEVOPS
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase,docker,kubernetes,aws,linux&theme=dark"/> </div>
-> CAIXA_DE_FERRAMENTAS
+☁️ BANCO DE DADOS / CLOUD
+<img src="https://skillicons.dev/icons?i=aws,mysql,vite&theme=dark"/>
+</div>
+
+CAIXA_DE_FERRAMENTAS
 <div align="center"> <img src="https://img.shields.io/badge/Git-ff4f9a?style=for-the-badge&logo=git&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/GitHub-ff6b9a?style=for-the-badge&logo=github&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/VS_Code-ff4f9a?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/Figma-ff2f92?style=for-the-badge&logo=figma&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/Linux-ff85b3?style=for-the-badge&logo=linux&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/Postman-ff4f9a?style=for-the-badge&logo=postman&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/Notion-ff6b9a?style=for-the-badge&logo=notion&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/Docker-ff2f92?style=for-the-badge&logo=docker&logoColor=white&labelColor=180018"/> </div>
 > PROJETOS_EM_DESTAQUE
 <div align="center"> <table> <tr> <td width="50%" valign="top"> <h3>🍓 Strawberry AI</h3>
