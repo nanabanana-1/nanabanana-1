@@ -102,40 +102,49 @@ energia: "🍓🍓🍓🍓🍓"
 
 CAIXA_DE_FERRAMENTAS
 <div align="center"> <img src="https://img.shields.io/badge/Git-ff4f9a?style=for-the-badge&logo=git&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/GitHub-ff6b9a?style=for-the-badge&logo=github&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/VS_Code-ff4f9a?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/Figma-ff2f92?style=for-the-badge&logo=figma&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/Linux-ff85b3?style=for-the-badge&logo=linux&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/Postman-ff4f9a?style=for-the-badge&logo=postman&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/Notion-ff6b9a?style=for-the-badge&logo=notion&logoColor=white&labelColor=180018"/> <img src="https://img.shields.io/badge/Docker-ff2f92?style=for-the-badge&logo=docker&logoColor=white&labelColor=180018"/> </div>
+
 > PROJETOS_EM_DESTAQUE
-<div align="center"> <table> <tr> <td width="50%" valign="top"> <h3>🍓 Strawberry AI</h3>
 
-Um projeto de IA fofo e futurista focado em automação inteligente e interações criativas.
+<div align="center"> <table> <tr> <td width="50%" valign="top"> 
 
-<br> <img src="https://img.shields.io/badge/IA-ff4f9a?style=flat-square"/> <img src="https://img.shields.io/badge/Python-ff85b3?style=flat-square"/> <img src="https://img.shields.io/badge/API-ff2f92?style=flat-square"/>
+<h3>💿 Meu blog pessoal (trabalhando) </h3>
 
-<br><br>
-
-<a href="https://github.com/nanabanana-1/SEU-PROJETO-1"> <img src="https://img.shields.io/badge/VER_PROJETO-ff4f9a?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%" valign="top"> <h3>💿 Y2K Dashboard</h3>
-
-Um dashboard futurista inspirado nas estéticas da internet dos anos 2000, interfaces cyber e design Y2K.
+Um blog com a minha cara inspirado em mim mesma,que vou atualizar com base meus conhecimentos irão evoluindo.
 
 <br> <img src="https://img.shields.io/badge/React-ff4f9a?style=flat-square"/> <img src="https://img.shields.io/badge/TypeScript-ff85b3?style=flat-square"/> <img src="https://img.shields.io/badge/UI-ff2f92?style=flat-square"/>
 
 <br><br>
 
-<a href="https://github.com/nanabanana-1/SEU-PROJETO-2"> <img src="https://img.shields.io/badge/VER_PROJETO-ff4f9a?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🧠 Neural Lab</h3>
+<a <a href="https://github.com/nanabanana-1/projetinhomeu-blog"> <img src="https://img.shields.io/badge/VER_PROJETO-ff4f9a?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> <tr> <td width="50%" valign="top">
 
-Um laboratório experimental para IA, machine learning e pequenas ideias tecnológicas.
+<h3>🍓 To do List (atividade) </h3>
+
+Um projeto de to do list fofo e básico. 
+
+<br> <img src="https://img.shields.io/badge/IA-ff4f9a?style=flat-square"/> <img src="https://img.shields.io/badge/Python-ff85b3?style=flat-square"/> <img src="https://img.shields.io/badge/API-ff2f92?style=flat-square"/>
+
+<br><br>
+
+
+<a href="https://github.com/nanabanana-1/todolist"> <img src="https://img.shields.io/badge/VER_PROJETO-ff4f9a?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%" valign="top">
+
+ <h3>🧠 Safe-School (Projeto de POO)</h3>
+
+Um sistema utilizando como base os conhecimentos de POO (programação orientada a objetos) adquiridos em aula e com auxílio de IA.
 
 <br> <img src="https://img.shields.io/badge/Python-ff4f9a?style=flat-square"/> <img src="https://img.shields.io/badge/ML-ff85b3?style=flat-square"/> <img src="https://img.shields.io/badge/IA-ff2f92?style=flat-square"/>
 
 <br><br>
 
-<a href="https://github.com/nanabanana-1/SEU-PROJETO-3"> <img src="https://img.shields.io/badge/VER_PROJETO-ff4f9a?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%" valign="top"> <h3>🌐 Cyber Garden</h3>
+<a href="https://github.com/nanabanana-1/safe-school"> <img src="https://img.shields.io/badge/VER_PROJETO-ff4f9a?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%" valign="top"> <h3>🏋‍♂️ me and you</h3>
 
-Um playground digital para experimentar tecnologias web, animações e interfaces interativas.
+Um sisteminha que registra a evolução de treinos de uma dupla e incentiva a não desistência.
 
 <br> <img src="https://img.shields.io/badge/Web-ff4f9a?style=flat-square"/> <img src="https://img.shields.io/badge/Código_Criativo-ff85b3?style=flat-square"/> <img src="https://img.shields.io/badge/Y2K-ff2f92?style=flat-square"/>
 
 <br><br>
 
-<a href="https://github.com/nanabanana-1/SEU-PROJETO-4"> <img src="https://img.shields.io/badge/VER_PROJETO-ff4f9a?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> </table> </div>
+<a href="https://github.com/nanabanana-1/meandyou"> <img src="https://img.shields.io/badge/VER_PROJETO-ff4f9a?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> </table> </div>
 > MISSÕES_ATUAIS
 ╭──────────────────────────────────────────────────────────────────╮
 │                    🍓 CENTRAL DE MISSÕES 🍓                      │
@@ -143,11 +152,11 @@ Um playground digital para experimentar tecnologias web, animações e interface
 │                                                                  │
 │  [01] ████████████████████ 100%  Aprender algo novo              │
 │                                                                  │
-│  [02] █████████████████░░░  85%  Criar projetos de IA             │
+│  [02] █████████████████░░░  85%  Criar projetos vibes             │
 │                                                                  │
 │  [03] ████████████████░░░░  80%  Melhorar arquitetura de software │
 │                                                                  │
-│  [04] ██████████████░░░░░░  70%  Explorar UI/UX futurista          │
+│  [04] ██████████████░░░░░░  70%  Explorar UI/UX          │
 │                                                                  │
 │  [05] ████████████░░░░░░░░  60%  Contribuir para Open Source      │
 │                                                                  │
@@ -201,7 +210,7 @@ $ git commit -m "criar algo bonito"
 
 </div>
 > REDES_SOCIAIS
-<div align="center"> <a href="https://github.com/nanabanana-1"> <img src="https://img.shields.io/badge/GITHUB-180018?style=for-the-badge&logo=github&logoColor=FF4F9A"/> </a> <a href="https://www.linkedin.com/in/SEU_LINKEDIN"> <img src="https://img.shields.io/badge/LINKEDIN-180018?style=for-the-badge&logo=linkedin&logoColor=FF85B3"/> </a> <a href="https://instagram.com/SEU_INSTAGRAM"> <img src="https://img.shields.io/badge/INSTAGRAM-180018?style=for-the-badge&logo=instagram&logoColor=FF2F92"/> </a> <a href="mailto:SEU_EMAIL"> <img src="https://img.shields.io/badge/EMAIL-180018?style=for-the-badge&logo=gmail&logoColor=FF4F9A"/> </a> </div>
+<div align="center"> <a href="https://github.com/nanabanana-1"> <img src="https://img.shields.io/badge/GITHUB-180018?style=for-the-badge&logo=github&logoColor=FF4F9A"/> </a> <a href="https://www.linkedin.com/in/SEU_LINKEDIN"> <img src="https://img.shields.io/badge/LINKEDIN-180018?style=for-the-badge&logo=linkedin&logoColor=FF85B3"/> </a> <a href="https://instagram.com/"> <img src="https://img.shields.io/badge/INSTAGRAM-180018?style=for-the-badge&logo=instagram&logoColor=FF2F92"/> </a> <a href="mailto:anavuh134@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-180018?style=for-the-badge&logo=gmail&logoColor=FF4F9A"/> </a> </div>
 <div align="center"> <br>
 ╭────────────────────────────────────────────────────────────╮
 │                                                            │
