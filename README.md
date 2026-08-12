@@ -9,12 +9,12 @@
 │                                                                     │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                     │
-│  USUÁRIO      : nanabanana-1                                      │
-│  MODO         : CRIATIVO                                          │
-│  ESTÉTICA     : Y2K / CYBERPUNK / FOFO                            │
+│  USUÁRIO      : nanabanana-1                                        │
+│  MODO         : CRIATIVO                                            │
+│  ESTÉTICA     : Y2K / CYBERPUNK / FOFO                              │
 │  NÚCLEO       : CAFÉ + CÓDIGO + DESIGN                              │
-│  STATUS       : ● ONLINE                                          │
-│  HUMOR        : ♡ movido a moranguinhos ♡                         │
+│  STATUS       : ● ONLINE                                            │
+│  HUMOR        : ♡ movido a moranguinhos ♡                           │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 
