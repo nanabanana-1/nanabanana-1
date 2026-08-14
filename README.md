@@ -95,7 +95,7 @@ energia: "🍓🍓🍓🍓🍓"
 <br><br>
 
 ☁️ BANCO DE DADOS / CLOUD
-<img src="https://skillicons.dev/icons?i=aws,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark"/>
 </div>
 
 CAIXA_DE_FERRAMENTAS
