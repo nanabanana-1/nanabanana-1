@@ -36,11 +36,11 @@ criando coisas • aprendendo coisas • quebrando coisas • deixando tudo fofo
 
 Sou uma estudante de TI, interessada na área  de desenvolvimento que ama combinar tecnologia, criatividade e estética.
 
-Gosto de explorar a interseção entre software, backend e interfaces futuristas e design digital.
+Gosto de explorar a interseção entre software, backend e design digital.
 
 Meu objetivo não é simplesmente escrever código.
 
-É criar coisas que sejam úteis, bonitas e um pouquinho mágicas. ✦
+É criar coisas que sejam úteis, com senso de humor duvidoso, bonitas e um pouquinho mágicas. ✦
 
 identidade:
   usuário: "nanabanana-1"
